@@ -1,0 +1,15 @@
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\bin\Debug\net10.0\Modul4_103022400003.exe
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\bin\Debug\net10.0\Modul4_103022400003.deps.json
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\bin\Debug\net10.0\Modul4_103022400003.runtimeconfig.json
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\bin\Debug\net10.0\Modul4_103022400003.dll
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\bin\Debug\net10.0\Modul4_103022400003.pdb
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\Modul4_103022400003.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\Modul4_103022400003.AssemblyInfoInputs.cache
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\Modul4_103022400003.AssemblyInfo.cs
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\Modul4_103022400003.csproj.CoreCompileInputs.cache
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\Modul4_103022400003.sourcelink.json
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\Modul4_103022400003.dll
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\refint\Modul4_103022400003.dll
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\Modul4_103022400003.pdb
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\Modul4_103022400003.genruntimeconfig.cache
+E:\Tugas\Tugas Pendahuluan KPL\Modul4_103022400003\Modul4_103022400003\obj\Debug\net10.0\ref\Modul4_103022400003.dll

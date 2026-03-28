@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "E:\\Tugas\\Tugas Pendahuluan KPL\\Modul4_103022400003\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BAEFCA6F-C8DE-447E-B708-6AE0AA42519D}|Modul4_103022400003\\Modul4_103022400003.csproj|e:\\tugas\\tugas pendahuluan kpl\\modul4_103022400003\\modul4_103022400003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BAEFCA6F-C8DE-447E-B708-6AE0AA42519D}|Modul4_103022400003\\Modul4_103022400003.csproj|solutionrelative:modul4_103022400003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A6D550C-A807-5D2A-D4E8-7BD0EAA2E94C}|Modul4_103022400003\\Modul4_103022400003.csproj|e:\\tugas\\tugas pendahuluan kpl\\modul4_103022400003\\modul4_103022400003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6D550C-A807-5D2A-D4E8-7BD0EAA2E94C}|Modul4_103022400003\\Modul4_103022400003.csproj|solutionrelative:modul4_103022400003\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6D550C-A807-5D2A-D4E8-7BD0EAA2E94C}|Modul4_103022400003\\Modul4_103022400003.csproj|e:\\tugas\\tugas pendahuluan kpl\\modul4_103022400003\\modul4_103022400003\\mesinkopi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6D550C-A807-5D2A-D4E8-7BD0EAA2E94C}|Modul4_103022400003\\Modul4_103022400003.csproj|solutionrelative:modul4_103022400003\\mesinkopi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6D550C-A807-5D2A-D4E8-7BD0EAA2E94C}|Modul4_103022400003\\Modul4_103022400003.csproj|e:\\tugas\\tugas pendahuluan kpl\\modul4_103022400003\\modul4_103022400003\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6D550C-A807-5D2A-D4E8-7BD0EAA2E94C}|Modul4_103022400003\\Modul4_103022400003.csproj|solutionrelative:modul4_103022400003\\kodepaket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MesinKopi.cs",
+              "DocumentMoniker": "E:\\Tugas\\Tugas Pendahuluan KPL\\Modul4_103022400003\\Modul4_103022400003\\MesinKopi.cs",
+              "RelativeDocumentMoniker": "Modul4_103022400003\\MesinKopi.cs",
+              "ToolTip": "E:\\Tugas\\Tugas Pendahuluan KPL\\Modul4_103022400003\\Modul4_103022400003\\MesinKopi.cs",
+              "RelativeToolTip": "Modul4_103022400003\\MesinKopi.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:17:14.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KodePaket.cs",
+              "DocumentMoniker": "E:\\Tugas\\Tugas Pendahuluan KPL\\Modul4_103022400003\\Modul4_103022400003\\KodePaket.cs",
+              "RelativeDocumentMoniker": "Modul4_103022400003\\KodePaket.cs",
+              "ToolTip": "E:\\Tugas\\Tugas Pendahuluan KPL\\Modul4_103022400003\\Modul4_103022400003\\KodePaket.cs",
+              "RelativeToolTip": "Modul4_103022400003\\KodePaket.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T07:14:21.241Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "Modul4_103022400003\\Program.cs",
               "ToolTip": "E:\\Tugas\\Tugas Pendahuluan KPL\\Modul4_103022400003\\Modul4_103022400003\\Program.cs",
               "RelativeToolTip": "Modul4_103022400003\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T07:05:47.411Z",
               "EditorCaption": ""
